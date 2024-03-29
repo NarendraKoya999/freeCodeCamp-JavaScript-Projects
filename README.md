@@ -1,5 +1,8 @@
 # JavaScript Algorithms and Data Strucures (Beta) - 21 Projects
 
+# Live Certification: 
+[JavaScript Algorithms and Data Structures (Beta)](https://freecodecamp.org/certification/fcc964aaf79-d74f-4a73-a538-bead74ff9282/javascript-algorithms-and-data-structures-v8)
+
 ## Practice and Built Projects
 
 ### 1. RPG (Role-Playing Game)
