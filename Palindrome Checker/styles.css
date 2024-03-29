@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  background-color: skyblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+#text-input,
+#check-btn {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+}
+
+#check-btn {
+  cursor: pointer;
+}
+
+#result {
+  font-weight: bold;
+  margin-top: 10px;
+}
