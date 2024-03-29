@@ -17,10 +17,9 @@
 - **Error Handling**: Implementing error handling for scenarios like insufficient gold to purchase items or encountering unexpected game states.
 
 
-## 2. Calorie Counter
+### 2. Calorie Counter
 
-### Description
-This project is a simple calorie counter implemented in JavaScript. It allows users to track their daily calorie intake and monitor their budget. The calorie counter dynamically updates the UI based on user input and provides feedback on consumed calories versus the set budget.
+**Description**: This project is a simple calorie counter implemented in JavaScript. It allows users to track their daily calorie intake and monitor their budget. The calorie counter dynamically updates the UI based on user input and provides feedback on consumed calories versus the set budget.
 
 ### Topics Covered
 - **DOM Manipulation**: Interacting with HTML elements to dynamically update the user interface.
