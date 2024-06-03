@@ -5,7 +5,50 @@
 
 ## Practice and Built Projects
 
-### 1. RPG (Role-Playing Game)
+### 1.Triangle Pattern Generator
+
+**Description**: This project generates a triangle pattern using a specified character, with options for regular or inverted patterns.
+
+**Topics Covered**:
+- **Variables**: Declaring and initializing variables to store pattern details such as the character to use, the number of rows, and whether the pattern is inverted.
+- **Loops**: Utilizing for loops to iterate and construct each row of the pattern.
+- **Functions**: Creating functions to handle the logic for padding and constructing each row of the pattern.
+- **String Manipulation**: Using string methods to repeat characters and concatenate strings to form the desired pattern.
+- **Conditional Statements**: Using conditional statements to determine the order of rows in the pattern.
+- **Arrays**: Using arrays to store and manage rows of the pattern.
+
+### 2. Rock-Paper-Scissors Game
+
+**Description**: This project is a simple implementation of the classic game Rock-Paper-Scissors. The player competes against the computer, with the first to reach 3 points declared the winner.
+
+**Topics Covered**:
+- **Variables**: Declaring and initializing variables to store player scores and the computer's score.
+- **Functions**: Creating functions to generate random computer choices, determine round results, show round outcomes, and reset the game.
+- **DOM Manipulation**: Utilizing JavaScript to interact with HTML elements for displaying scores and round results, as well as handling button clicks.
+- **Conditional Statements**: Using conditional statements to check for round outcomes and end game conditions.
+- **Event Listeners**: Adding event listeners to buttons for player choices and the reset button.
+
+### 3. Random Background Color Changer
+
+**Description**: This project randomly changes the background color of a webpage from a predefined array of dark colors whenever a button is clicked.
+
+**Topics Covered**:
+- **Variables**: Initializing an array to store dark color hex codes.
+- **Functions**: Creating a function to generate a random index within the array length and another function to change the background color.
+- **DOM Manipulation**: Utilizing JavaScript to interact with HTML elements such as the body background and text content.
+- **Event Handling**: Attaching an event listener to a button to trigger the background color change.
+
+### 4. Student Grade and Passing Status Checker
+
+**Description**: This program determines a student's grade based on their score and checks if they passed or failed a course. It also provides the class average.
+
+**Topics Covered**:
+- **Functions**: Creating functions to calculate the class average, determine a student's grade, and check if a student passed the course.
+- **Conditional Statements**: Using conditional statements to assign grades and determine passing status.
+- **Array Iteration**: Iterating through an array to calculate the class average.
+- **String Concatenation**: Combining strings to form messages about the student's grade and passing status.
+
+### 5. RPG (Role-Playing Game)
 
 **Description**: Create a text-based RPG adventure game using JavaScript, featuring a player, weapons, monsters, and locations.
 
@@ -20,7 +63,7 @@
 - **Error Handling**: Implementing error handling for scenarios like insufficient gold to purchase items or encountering unexpected game states.
 
 
-### 2. Calorie Counter
+### 6. Calorie Counter
 
 **Description**: This project is a simple calorie counter implemented in JavaScript. It allows users to track their daily calorie intake and monitor their budget. The calorie counter dynamically updates the UI based on user input and provides feedback on consumed calories versus the set budget.
 
@@ -39,7 +82,7 @@
 - **Encapsulation**: Organizing code into reusable functions for clarity and maintainability.
 
 
-### 3. Music Player
+### 7. Music Player
 
 **Description**: Code a basic MP3 player with HTML, CSS, and JavaScript. Learn audio playback, playlist management, and UI updates.
 
@@ -54,7 +97,7 @@
 - **Shuffle Functionality**: Implementing a shuffle feature to randomize the playlist order.
 
 
-### 4. Date Formatter
+### 8. Date Formatter
 
 **Description**: Covering JavaScript date methods to format dates.
 
@@ -64,7 +107,7 @@
 - **JavaScript Date Methods**: Utilizing JavaScript's built-in date methods to manipulate and format dates.
 
 
-### 5. Football Team Cards
+### 9. Football Team Cards
 
 **Description**: Explore switch statements, default parameters, and array methods with football team cards.
 
@@ -78,7 +121,7 @@
 - **Switch Statements**: Implementing conditional logic based on multiple cases using switch statements.
 
 
-### 6. Todo App
+### 10. Todo App
 
 **Description**: Develop a TODO application with features for adding, editing, deleting, and displaying tasks. Utilize local storage for data persistence and form handling for task management.
 
@@ -93,7 +136,7 @@
 - **Toggle Functionality**: Toggling the visibility of UI elements, such as the task form or confirmation dialog.
 
 
-### 7. Decimal to Binary Converter
+### 11. Decimal to Binary Converter
 
 **Description**: Build a decimal-to-binary converter using recursion and visualize the process.
 
@@ -103,7 +146,7 @@
 - **DOM Manipulation**: Interacting with HTML elements to display results and animations.
 
 
-### 8. Number Sorter
+### 12. Number Sorter
 
 **Description**: Understand sorting algorithms and apply them to numerical data.
 
@@ -115,7 +158,7 @@
 - **Functionality**: Providing functionality to sort numerical input using different algorithms.
 
 
-### 9. Statistics Calculator
+### 13. Statistics Calculator
 
 **Description**: Develop a statistics calculator application to perform calculations such as mean, median, mode, range, variance, and standard deviation on a given set of numbers.
 
@@ -128,7 +171,7 @@
 - **Regular Expressions**: Using regular expressions to split input strings and extract numerical values from user input.
 
 
-### 10. Spreadsheet Builder
+### 14. Spreadsheet Builder
 
 **Description**: Implement a spreadsheet application with support for mathematical expressions and interactive interfaces.
 
@@ -142,7 +185,7 @@
 - **Cell References**: Implementing functionality to support cell references within formulas, allowing users to refer to other cells in calculations.
 
 
-### 11. Spam Filter
+### 15. Spam Filter
 
 **Description**: Implement a spam filter to detect spam messages using regular expressions.
 
@@ -156,7 +199,7 @@
 - **Alerts**: Displaying alerts to prompt users to enter a message if the input field is empty.
 
 
-### 12. Shopping Cart
+### 16. Shopping Cart
 
 **Description**: Implement a shopping cart feature with the ability to add items, view the cart, and calculate totals.
 
@@ -172,7 +215,7 @@
 - **String Formatting**: Formatting prices and totals using string interpolation and `toFixed` method for displaying currency.
 
 
-### 13. Platformer Game
+### 17. Platformer Game
 
 **Description**: Create a platformer game with HTML canvas, featuring a player, platforms, and checkpoints.
 
@@ -186,7 +229,7 @@
 - **Proportional Sizing**: Dynamically sizing game elements based on the viewport size.
 
 
-### 14. Dice Game
+### 18. Dice Game
 
 **Description**: Manage game state, implement logic, and update UI for a dice game.
 
@@ -198,7 +241,7 @@
 - **Functions**: Defining and using functions to encapsulate reusable pieces of code, such as rolling dice and updating scores.
 
 
-### 15. FCC Authors Page
+### 19. FCC Authors Page
 
 **Description**: Fetch data and dynamically update the DOM to display authors' information.
 
@@ -210,7 +253,7 @@
 - **Event Handling**: Responding to user actions like button clicks to load more data.
 
 
-### 16. FCC Forum Leaderboard
+### 20. FCC Forum Leaderboard
 
 **Description**: Utilize Fetch API, promises, and Async/Await to create a forum leaderboard.
 
@@ -224,7 +267,7 @@
 
 ## Certification Projects
 
-### 17. Palindrome Checker
+### 21. Palindrome Checker
 
 **Description**: Implement a palindrome checker that determines whether a word or phrase entered by the user is a palindrome.
 
@@ -237,7 +280,7 @@
 - **Conditional Rendering**: Displaying different messages depending on whether the input is a palindrome or not.
 .
 
-### 18. Roman Numeral Converter
+### 22. Roman Numeral Converter
 
 **Description**: Develop a Roman numeral converter that converts Arabic numerals (decimal numbers) to their equivalent Roman numeral representation.
 
@@ -251,7 +294,7 @@
 - **Output Display**: Updating the output element with the converted Roman numeral representation of the input number.
 
 
-### 19. Telephone Number Validator
+### 23. Telephone Number Validator
 
 **Description**: Create a web application to validate US phone numbers in various formats.
 
@@ -264,7 +307,7 @@
 - **Output Display**: Updating the output element with the validation results and the formatted phone number if valid.
 
 
-### 20. Cash Register
+### 24. Cash Register
 
 **Description**: Develop a cash register application to calculate change based on the provided cash.
 
@@ -278,7 +321,7 @@
 - **DOM Manipulation**: Updating the output element with the status and details of the change due.
 
 
-### 21. Pokémon Search App
+### 25. Pokémon Search App
 
 **Description**: This app allows users to search for Pokémon using the PokéAPI. It fetches data about the Pokémon based on the user's input and displays various details such as name, ID, weight, height, and stats.
 
