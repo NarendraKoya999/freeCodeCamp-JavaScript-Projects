@@ -482,10 +482,10 @@ Each folder contains an `index.html`, `styles.css`, and `script.js`. All project
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/javascript-algorithms-data-structures.git
+git clone https://github.com/NarendraKoya999/freeCodeCamp-JavaScript-Projects.git
 
 # Navigate into any project folder
-cd javascript-algorithms-data-structures/25-pokemon-search-app
+cd freeCodeCamp-JavaScript-Projects/Dice Game
 
 # Open in your browser
 open index.html
